@@ -16,15 +16,15 @@ const VARIANT_STYLES: Record<
 > = {
   success: {
     title: 'Success',
-    container: 'bg-tealLight',
+    container: 'bg-green',
   },
   error: {
     title: 'Error',
     container: 'bg-red',
   },
   info: {
-    title: "Captain's Log",
-    container: 'bg-navy',
+    title: 'Info',
+    container: 'bg-tertiary',
   },
 };
 
