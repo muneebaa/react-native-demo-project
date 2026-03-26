@@ -4,8 +4,8 @@ import ContentLoader, { Rect, Circle } from 'react-content-loader/native';
 import tw from '../../lib/tailwind';
 import colors from '../utils/colors';
 
-const backgroundColor = colors.navyDark;
-const foregroundColor = colors.navy;
+const backgroundColor = colors.primaryDark;
+const foregroundColor = colors.primary;
 
 export function HomeContentLoader() {
   return (
